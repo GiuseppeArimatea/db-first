@@ -1,0 +1,12 @@
+AUTO USATE
+
+id = PRIMARY_KEY 
+ISBN = stringa - VARCHAR(16) - NOTNULL - UNIQUE
+tipologia = stringa - VARCHAR(100) - NOTNULL
+anno di immatricolazione = MEDIUMINT - data year
+prezzo = MEDIUMINT - float(7,2) - NOTNULL
+Km percorsi = INT - DOUBLE(8, 2) _ NOTNULL
+tipo di alimentazione = stringa - VARCHAR (50)
+accertamento meccanico = stringa - VARCHAR
+descrizione auto = stringa - TEXT
+disponibilita' = Tinyint - NOTNULL
